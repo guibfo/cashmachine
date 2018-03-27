@@ -35,8 +35,6 @@ Result: [Empty Set]
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-What it does is you enter an amount and it returns the least amount of notes possible you would take from that amount, considering the availble notes being $100, $50, $20 and $10.
-
 ### Prerequisites
 
 You need NodeJS and NPM installed to build the project, fire up the development env, and run tests

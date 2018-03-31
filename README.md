@@ -71,7 +71,7 @@ npm build
 
 ## Authors
 
-* \*\*[Guilherme Oliveira](https://github.com/guibfo)
+* [Guilherme Oliveira](https://github.com/guibfo)
 
 ## License
 

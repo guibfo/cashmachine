@@ -1,19 +1,23 @@
 {
-  "name": "careship",
+  "name": "Cash Machine",
   "version": "2.0.0",
-  "description": "Careship Teste Project",
+  "description": "Cash Machine Test Project",
   "main": "app.js",
   "scripts": {
-    "build": "./node_modules/.bin/webpack --colors --progress --mode production",
+    "build":
+      "./node_modules/.bin/webpack --colors --progress --mode production",
     "watch": "npm run build -- --watch",
-    "server": "./node_modules/.bin/webpack-dev-server --inline --open --mode development",
-    "test": "./node_modules/.bin/mocha tests/**/*.spec.js --require babel-register"
+    "server":
+      "./node_modules/.bin/webpack-dev-server --inline --open --mode development",
+    "test":
+      "./node_modules/.bin/mocha tests/**/*.spec.js --require babel-register"
   },
-  "keywords": [
-    "Test",
-    "Careship"
-  ],
-  "author": "Guilherme Oliveira",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guibfo/cashmachine"
+  },
+  "keywords": ["Cash Machine", "Test", "ES6"],
+  "author": "Guilherme Oliveira <guibfo@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",

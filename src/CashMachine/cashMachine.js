@@ -18,7 +18,7 @@ class CashMachine {
   }
 
   validateAmount(amount) {
-    //In case someone bypasses the HTML Number input validation
+    //In case HTML Number input validation is bypassed
     if (isNaN(amount)) {
       throw new Error("The inserted value is not a number");
     } else if (amount < 0) {

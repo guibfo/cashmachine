@@ -6,10 +6,10 @@ Develop a solution that simulate the delivery of notes when a client does a with
 
 The basic requirements are the follow:
 
-Always deliver the lowest number of possible notes;  
-It's possible to get the amount requested with available notes;  
-The client balance is infinite;  
-Amount of notes is infinite;  
+Always deliver the lowest number of possible notes;
+It's possible to get the amount requested with available notes;
+The client balance is infinite;
+Amount of notes is infinite;
 Available notes $ 100,00; $ 50,00; $ 20,00 e $ 10,00
 
 Example:
@@ -71,7 +71,7 @@ npm build
 
 ## Authors
 
-* **Guilherme Oliveira** - _Initial work_ - [Guibfo](https://github.com/guibfo)
+* \*\*[Guilherme Oliveira](https://github.com/guibfo)
 
 ## License
 
